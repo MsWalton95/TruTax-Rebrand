@@ -1,0 +1,26 @@
+<div class="training">
+          <img src="images/training.jpg" alt="training">
+          <div class="description">
+         <h1>Training Amenities</h1>
+        <p>Tru Tax & Accounting Solutions offers FREE basic tax training with certified tax educators using CPA Principles and IRS industry standards and requirements. We not only teach tax preparation training, but customer service skills, business management skills, and marketing skills.Tru Tax & Credit Solutions training includes:
+        </p>
+        <ul>
+          <li>Tax theory</li>
+          <li>Current tax laws and filing practices</li>
+          <li>Step-by-step skills to prepare tax returns</li>
+          <li>Client communication skills and techniques</li>
+        </ul>
+        <p>With this training course, online and live one-on-one instructor assistance will offer a hands-on experience with real-world tax preparation exercises and/or examples. The course covers:
+        </p>
+        <ul>
+          <li>Wages, Income and Taxes</li>
+          <li>Filing Requirements</li>
+          <li>Dependent Exemptions and Credits</li>
+          <li>Dependent Related Filing Statuses</li>
+          <li>Earned Income Credit & Due Diligence</li>
+          <li>Adjustments, Credits, and Education Credits</li>
+          <li>Ethic Practices</li>
+          <li>Reviews & Exams</li>
+        </ul>
+        </div>
+        </div>
