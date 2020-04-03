@@ -1,0 +1,20 @@
+<div class="credit">
+          <img src="images/credit_solutions.jpg" alt="credit solution" />
+          <div class="description">
+            <h1>We Create Solutions</h1>
+            <p>
+              Our team of experienced team of paralegals and other credit
+              professionals are trained in credit solutions, from repairing to
+              building good credit. Helping you resolve items on your credit
+              report in the fastest and most effective way possible.
+            </p>
+            <p>
+              Get on the right track. Every credit situation is unique—that’s
+              why we’ve created various credit solution packages for a more
+              personalized solution that targets various areas from medical
+              bills, student loans, bankruptcy, collections, identity theft, and
+              more. With our expert advice, and assistance, we will show you
+              exactly what’s impacting your credit, and how to fix it.
+            </p>
+          </div>
+        </div>

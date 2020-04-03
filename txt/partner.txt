@@ -1,0 +1,22 @@
+<div class="partner" id="partner">
+          <img src="https://static.wixstatic.com/media/aa4660_2bd218fd14ac44899775883851b41795~mv2_d_1500_1500_s_2.jpg/v1/fill/w_1311,h_1311,al_c,q_85,usm_0.66_1.00_0.01/TRU%201.webp" alt="">
+        <div class="description">
+          <h1>Partner with Us</h1>
+          <p>Tru Tax & Accounting Solutions can help you start or grow your business in an industry that is ever changing. 
+            We have various franchise package that is not only affordable but profitable. 
+            Partner up with us and receive the following benefits:
+          </p>  
+        <ul class="text-left">
+          <li>Free professional Tax Software</li>
+          <li>Online web-based Software</li>
+          <li>Complete paperless capability with e-signature available</li>
+          <li>Proven growth programs to help you expand your business</li>
+          <li>Free Continuing Education Courses that incl. tax code updates for you and your staff</li>
+          <li>Dedicated local Support Teams to help you grow your business</li>
+          <li>Innovative products and services that help attract and retain clients</li>
+          <li>Local & National Marketing that will help you grow your business</li>
+          <li>Free Bank Products</li>
+          <li>Free Corporate Marketing Leads</li>
+        </ul>
+        </div>
+        </div>
